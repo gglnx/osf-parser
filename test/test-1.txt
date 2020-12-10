@@ -1,0 +1,140 @@
+HEADER
+Podcast: anycast
+Episode: anycast-050
+Starttime: Wed May 07 2014 14:10:20 GMT +0200
+relativeTimestamps: no
+Endtime:
+Podcaster: Dennis Morhardt (@gglnx), Renke Bruhns (@bruhndsoweiter), Sebastian Fiebrig (@saumselig), Cornelis Kater (@modnerd), Ralf Stockmann <https://twitter.com/rstockm>, Claudia Krell <https://twitter.com/wortkomplex>, Martin Fischer <https://twitter.com/nitramred>, Katrin Rönicke <https://twitter.com/diekadda>
+Shownoter: @mrmoe <https://twitter.com/mrmoe>, @quimoniz <https://alpha.app.net/quimoniz>
+Chat:
+Stream: http://streams.xenim.de/sendezentrum.mp3
+Webseite: http://anyca.st
+Flattr-Links der Shownotes-Contributoren
+<https://flattr.com/profile/Shownotes>
+und/oder
+<https://flattr.com/profile/mrmoe>
+<https://flattr.com/profile/quimoniz>
+/HEADER
+1399464626 Pressekonferenz #chapter
+1399465068 Eröffnung #chapter
+1399465211 5000 Jahre Domestizierung des Pferdes
+1399465223 "Ohne Pferd keine Kutsche, ohne Kutsche kein Auto, und ohne Auto keine Unfälle!" (Cornelis)  #q
+1399465246 1. Gast: Sebastian Fiebrig #chapter
+- @saumselig <https://twitter.com/saumselig> #tweet
+1399465266 Textilvergehen <http://www.textilvergehen.de/> #podcast
+1399465277 FC Union Berlin <https://de.wikipedia.org/wiki/1._FC_Union_Berlin> #g
+1399465290 Faxe 10% <https://en.wikipedia.org/wiki/Faxe_Brewery> #g
+1399465301 Knalleffekt
+1399465328 "Mate aus der Dose, die neue Zukunft!" (Cornelis trinkt Mate) #q
+1399465366 "Pfeffi" Pfefferminz-Likör <http://www.pfeffi.de/>
+1399465697 Renkes Autogeschichte
+1399465672 "Das ist eine wunderbare Geschichte mit einer schlechten Pointe!" (Renke) #q
+1399465733 Dennis trägt eine Schwarzer-Balken-Brille
+1399465800 Exclusiv bei anycast: Die Antwort auf die Frage: "Wer wird der Nachfolger von Uwe Neuhaus?"
+1399465865 Renke hat im Training ein Tor geschossen (Applaus)
+1399465875 Mike Büskens <https://de.wikipedia.org/wiki/Mike_B%C3%BCskens> #g
+1399465880 Greuther Fürth <https://de.wikipedia.org/wiki/Greuther_F%C3%BCrth> #g
+1399465884 Fortuna Düsseldorf <https://de.wikipedia.org/wiki/Fortuna_D%C3%BCsseldorf> #g
+1399465902 Friedhelm Funkel <https://de.wikipedia.org/wiki/Friedhelm_Funkel> #g
+1399465907 Berti Vogts <https://de.wikipedia.org/wiki/Berti_Vogts> #g
+1399465911 Lothar Matthäus <https://de.wikipedia.org/wiki/Lothar_Matth%C3%A4us> #g
+1399465943 Hörertreffen am folgenden Sonntag an der Union-Tanke
+1399466037 Bayern-Fluch (Union hat Schwierigkeiten, gegen Mannschaften aus Bayern zu gewinnen)
+1399466086 Fehlzündung bei Dennis' Spielzeug-Knarre
+1399466099 2. Gast: Ralf Stockmann #chapter
+- @rstockm <https://twitter.com/rstockm> #tweet
+1399466171 "Ist das eigentlich dauerhaft mit Euch?" (Ralf bezweifelt die Zukunft von anyca.st) #q
+1399466239 "Total armselig!" (Dennis feuert wieder seine Knarre) #q
+1399466301 Ralf findet es bizarr, das alles so wenig kostet
+1399466397 Häppchen (Pumpernickel mit Obazda, ausserdem Kirschtomaten und Apfel) werden herumgereicht
+1399466467 Winkekatzen sind kein Perpetuum Mobile <http://de.wikipedia.org/wiki/Perpetuum_mobile> #g
+1399466510 #stuhlgate
+1399466535 Renke ruft auf, die Couch aus der Microsoft-Lounge herauszutragen
+1399466591 Illegale Versammlung <http://de.wikipedia.org/wiki/Versammlungsfreiheit#Einschr.C3.A4nkungen> #g
+1399466611 Sascha Lobo <https://twitter.com/saschalobo> #tweet
+1399466619 Dennis nennt das Publikum der re:publica "Marketing-Abschaum" #q
+1399466707 "Oh mein Gott, ich bin so sauer, ich registriere eine Domain!" (Ralf zitiert eine Domain) #q
+1399466735 Ralf entkleidet sich
+1399466774 Ralf ist Regierungsrat und hat sich ein T-Shirt mit "re:gierungsrat" drucken lassen
+1399466802 Christoph Schlingensief
+1399466859 "Ihr seid mir alle zu rational. So wird das nichts mit der Revolution!" (Ralf) #q
+1399466892 Renke kritisiert Sascha Lobo
+1399466931 #hofgate
+1399467027 Renke liest seinen Tweet <https://twitter.com/bruhndsoweiter/status/463995613500411904> #tweet
+1399467233 Die re:publica sei für Poser, wird behauptet
+1399467258 Am Anfang war Dennis' Bauchansatz zu sehen
+1399467349 Man schaut streng in die erste Reihe, um den nächsten Gast auf die Bühne zu bitten
+1399467356 3. Gast: Claudia Krell #chapter
+- @wortkomplex <https://twitter.com/wortkomplex> #tweet
+1399467401 Pantone <http://en.wikipedia.org/wiki/Pantone> #g
+1399467468 Claudia hat einen Kalender, der jeden Tag eine neue Farbe anzeigt
+1399467509 HKS <http://www.hks-farben.de/>
+1399467555 HKS 42, die Farbe des deutschen Mittelstands (blau)
+1399467610 Offsetdruck <https://de.wikipedia.org/wiki/Offsetdruck> #g
+1399467679 Spendenaufruf für einen anyca.st-Bierpong-Tisch <http://www.beerpong.de/de/produktdetails/logo-beer-pong-set.html>
+1399467769 Renke erklärt das Bierpong-Konzept
+1399467844 Renke würde das Geld zurücküberweisen, wenn die Gesamtsumme nicht zustande kommt
+1399468045 Europawahl <http://de.wikipedia.org/wiki/Europawahl_2014> #g
+1399468050 Briefwahllokalvorsteller
+1399468057 Erfrischungsgeld
+1399468141 Wahlwerbung
+1399468195 Dennis möchte ein Feuerzeug, das auf 5 Meter Entfernung funktioniert
+1399468200 Claudia empfiehlt einen Umweltvernichter
+1399468233 Claudia war im Mondo Sardo in der Winsstraße
+- Mondo Sardo <http://www.zitty.de/mondo-sardo-kategorie-moderat.html> #article
+1399468269 "War ja auch mal Deutschland!" (Renke über Sardinien)  #q
+1399468456 Die Spielzeugknarre kommt ausgiebig zum Einsatz
+1399468552 Claudia verabschiedet sich
+1399468613 4. Gast: Sven Sedivy #chapter
+- @graphorama <https://twitter.com/Graphorama> #tweet
+1399468695 Odol <https://de.wikipedia.org/wiki/Odol> #g
+1399468816 LAN-Party <https://de.wikipedia.org/wiki/LAN-Party> #g
+1399468850 Man verbreitet das Gerücht, dass auf LAN-Parties destilliertes Wasser bereitstehen würde
+1399468865 Elekrolyse <http://de.wikipedia.org/wiki/Elektrolyse> #g
+1399468871 Dextrose <http://de.wikipedia.org/wiki/Glucose> #g
+1399468889 Dennis hat bei der BP nach Erdöl gefragt, und einen Liter per UPS-Gefahrentransport geschickt bekommen
+1399468963 Verquere Weltanschauungen
+1399468999 Rossmann <http://www.rossmann.de/>
+1399469036 Die shownot.es werden erwähnt <http://shownot.es>
+1399469071 Dennis hat einen weiss-gelben Gurt in Judo
+1399469153 Breaking News: Zwischen Magdeburg und Braunschweig ist jemand nackt durch den Zug getanzt <http://www.n24.de/n24/Nachrichten/Panorama/d/4624428/25-jaehriger-tanzt-nackt-durch-zug.html>
+1399469172 Die neue Website vom anyca.st <http://anyca.st/> #podcast
+1399469275 Körperteile aufmachen
+1399469278 "Sachen mit Körperteilen aufmachen" #quote
+1399469302 Sven möchte Schnittchen
+1399469412 "Ich sehe was, was du nicht siehst. Für einen Audiopodcast auch eine sehr gute Idee!" (Renke schägt ein Gesellschaftsspiel vor) #q
+1399469575 ADN-Lesung <http://re-publica.de/session/geschichten-dem-country-club-weltweit-erste-appnet-lesung>
+1399469588 "Starkbier-Man" (Sven) #q
+1399469639 "Meine Superheldenfähigkeit ist Spezialkleber" (Cornelis) #quote
+1399469643 Renke und Cornelius hatten Kroketten zum Frühstück
+1399469701 Sven will Renke denunzieren
+1399469778 "AH MEIN NIPPEL!!!" (Renke wurde von Dennis mit der Spielzeugknarre beschossen) #quote
+1399469806 Graphorama hat die Haare wachsen lassen für den Anycast
+1399469849 Dennis wurde von seiner Oma enterbt
+1399469915 5. Gast: Martin Fischer #chapter
+- @nitramred <https://twitter.com/nitramred> #tweet
+1399469938 Staatsbürgerkunde-Podcast <http://www.staatsbuergerkunde-podcast.de/> #podcast
+1399469952 "Das sieht ein bisschen aus wie Wick Medinait." (Martin zum Pfefferminz-Schnaps) #q
+1399469976 Odol erzeuge <http://de.wikipedia.org/wiki/Odol> #g
+- Phenol <http://de.wikipedia.org/wiki/Phenol> #g
+1399469983 "Mein Agentenname ist Doppel Null Null" (Dennis) #quote
+1399470105 "Nasenlochwechsel!" (Dennis raschelt mit dem Headset) #q
+1399470172 Martin macht Werbung für seinen Podcast
+1399470207 Renke bestellt grüße an Martins Eltern
+1399470349 Goldkrone und Nordhäuser Doppelkorn waren die bekanntesten Schnäpse in der DDR
+- erklärt Heiko Linke am Saalmikrophon <https://twitter.com/hlinke> #tweet
+1399470403 "Es muss ja knallen, das ist der einzige Effekt" (Dennis) #q
+1399470427 Alkohol war recht günstig in der DDR
+1399470445 Bettler waren in der DDR assoziale
+1399470586 Renkes These: Einen der die Schubkarre schiebt, den braucht man immer.
+1399470605 Allkauf <https://de.wikipedia.org/wiki/Allkauf> #g
+1399470609 Ausbauhaus: Man konnte früher in der DDR im Laden ein Haus kaufen
+1399470628 6. Gast: Katrin Roenicke #chapter
+- @diekadda <https://twitter.com/diekadda> #tweet
+1399470720 Renke öffnet Katrin ein Bier
+1399470737 Die ADN Lesung <http://re-publica.de/session/geschichten-dem-country-club-weltweit-erste-appnet-lesung>
+1399470776 ADN: State of the Union <http://blog.app.net/2014/05/06/app-net-state-of-the-union/>
+1399470818 "Es ist nichts vorbei, solange es nicht vorüber ist" #quote
+1399471042 Verabschiedung #chapter
+1399471081 Dank an alle Gäste
+1399471134 Die Internationale #chapter
